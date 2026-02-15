@@ -200,9 +200,11 @@ Escalabilidade horizontal
 
 Gateway centralizador
 
+
 Containerização com Docker
 
 👨‍💻 Autor
 
 Kaic Bispo
 Projeto acadêmico – Microsserviços com Kubernetes
+
